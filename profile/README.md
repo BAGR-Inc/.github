@@ -36,7 +36,7 @@ Early. There's a working MVP and five producers with multi-platinum and diamond 
 
 Me, Ken. Day job: Army captain in Brooklyn, running a team that processes about 4% of everyone who joins the U.S. military. Night and weekend job: this.
 
-Plus a crew of three who are better at what they do than I'll ever be: design, front-end, back-end.
+Plus a crew of three who are better at what they do than I'll ever be: full-stack, design, and product.
 
 I'm also learning React Native because I want to be able to review every line of what we ship.
 
