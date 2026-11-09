@@ -46,6 +46,8 @@ I'm also learning React Native because I want to be able to review every line of
 - **Twilio** for [live video / text verification / notifications, whichever it is]
 - **Contabo** for server hosting
 
+Code is Private for now. Happy to walk through the architecture: [ken@bagr.app](mailto:ken@bagr.app)
+
 ###### say hi
 
 [bagr.app](https://www.bagr.app) · [ken@bagr.app](mailto:ken@bagr.app) · [@bagrapp](https://instagram.com/bagrapp)
